@@ -1,0 +1,2 @@
+# hellocicd
+latihan CI/CD
